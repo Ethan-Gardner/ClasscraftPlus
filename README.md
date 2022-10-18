@@ -1,0 +1,1 @@
+Classcraft+ is a project dedicated to improving Classcraft for the user. It allows the player to get GP, crystals, XP, and get hearts. The project is currently in development stages, and is not yet projected to having a completion date as everything is theoretical.
